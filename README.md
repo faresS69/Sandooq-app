@@ -1,16 +1,22 @@
-# sandooq
+# Sandooq 🏦💰
 
-A new Flutter project.
-u6a1rvQOb7OymTU7
-## Getting Started
+Welcome to **Sandooq** – the app that brings you the power of **Rotating Savings and Credit Associations (ROSCA)**! 💸✨
 
-This project is a starting point for a Flutter application.
+🚧 **Construction Zone!** 🚧  
+The app is still under development, but don’t worry – we’re building it brick by brick, and it’ll be ready soon. Stay tuned! 🔧🔨
 
-A few resources to get you started if this is your first Flutter project:
+## What’s Coming? 🚀
+- Create or join savings groups with friends, family, or anyone!
+- Track your savings & loan requests 📊
+- Easy-to-use – no tech skills required! 😎
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## How to Use (When It's Ready) 📲
+1. Download the app (coming soon!)
+2. Create an account – super simple! ✔️
+3. Join or create a group and start saving 💰
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Feel free to check back later for updates! 🛠️
+
+**Note:** The app isn’t fully functional yet, but it's going to be awesome once it is! 😁
+
+Stay tuned and follow along for updates! 🎉
